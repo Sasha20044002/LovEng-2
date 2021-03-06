@@ -1707,6 +1707,7 @@ body {
 	.header__content__nav #small-menu #tel {
 		margin: 0 auto;
 		width: 96.77%;
+		min-height: 33px;
 		display: -webkit-box;
 		display: -ms-flexbox;
 		display: flex;
