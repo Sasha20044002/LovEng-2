@@ -2297,11 +2297,11 @@ body {
 	}
 
 	.main__statistic__item {
-		width: 100%;
+		width: 98%;
 	}
 
 	.main__statistic__item__text {
-		width: 100%;
+		width: 95%;
 	}
 
 	.main__video-2 {
@@ -2582,11 +2582,6 @@ body {
 }
 
 @media (max-width: 425px) {
-	.main__statistic,
-	.main__video-2 {
-		display: none;
-	}
-
 	.main__start__content__title {
 		font-size: 36px;
 		line-height: 45px;
@@ -2638,6 +2633,10 @@ body {
 	.main__students__blocks__item__text{
 		line-height: 20px;
 		font-size: 14px;
+	}
+
+	.main__video-2{
+		height: 336px;
 	}
 	.main__students {
 		margin-bottom: 0px;
