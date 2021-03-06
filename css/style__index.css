@@ -1672,7 +1672,7 @@ body {
 
 	.header__content__nav {
 		width: 100vw;
-		height: 100vh;
+		height: 100%;
 		background-color: #fff;
 		display: -webkit-box;
 		display: -ms-flexbox;
