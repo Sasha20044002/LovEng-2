@@ -1638,6 +1638,11 @@ body {
 		left: 17px;
 	}
 
+	.header__content #logo-logo{
+		width: 100%;
+		height: auto;
+	}
+
 	.header__content__open,
 	.header__content__close {
 		display: block;
