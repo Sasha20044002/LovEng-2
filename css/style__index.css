@@ -1642,6 +1642,7 @@ body {
 	.header__content #logo-logo {
 		width: 100%;
 		height: auto;
+		margin-top: -8px;
 	}
 
 	.header__content__open,
@@ -1667,7 +1668,7 @@ body {
 
 	.header__content__close {
 		position: absolute;
-		top: 15px;
+		top: 4px;
 		right: 15px;
 	}
 
@@ -1699,7 +1700,7 @@ body {
 	}
 
 	.header__content__nav #small-menu {
-		margin-top: 86px;
+		margin-top: 54px;
 		height: 100%;
 		display: flex;
 		flex-direction: column;
@@ -1720,7 +1721,6 @@ body {
 		justify-content: center;
 		background: #eef2f2;
 		border-radius: 5px;
-		margin-bottom: 9px;
 		padding: 28px 0;
 	}
 
@@ -1768,7 +1768,7 @@ body {
 		font-size: 27px;
 		font-family: "Inter-Bold", sans-serif;
 		text-transform: uppercase;
-		margin-bottom: 8px;
+		margin-bottom: -6px;
 	}
 
 	.header__content__nav #small-menu .work__char {
@@ -1828,7 +1828,7 @@ body {
 		justify-content: center;
 		text-decoration: none;
 		border-radius: 5px;
-		margin-bottom: 9px;
+		margin-bottom: 6px;
 	}
 
 	.header__content__nav #small-menu .social__telegramm {
