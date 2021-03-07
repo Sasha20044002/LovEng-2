@@ -2641,10 +2641,6 @@ body {
 		margin-bottom: 88px;
 	}
 
-	.main__change {
-		margin-bottom: 128px;
-	}
-
 	.main__change__title {
 		font-size: 36px;
 		line-height: 45px;
@@ -2655,6 +2651,12 @@ body {
 		font-size: 16px;
 		line-height: 20px;
 		margin-bottom: 31px;
+	}
+
+	.main__change__blocks__item{
+		height: 100vh;
+		margin-bottom: 0;
+		justify-content: center;
 	}
 
 	.main__change__blocks__item__text {
